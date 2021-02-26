@@ -1,0 +1,16 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+.product img{
+    margin-right: 30px;
+}
+.add-cart-btn{
+    border: 1px solid black;
+    background-color: goldenrod;
+    border-radius: 2px;
+    height : 40px;
+    width : 200px;
+    margin-bottom: 10px;
+
+}
